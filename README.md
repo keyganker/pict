@@ -22,6 +22,8 @@ See **[doc/pict.md](https://github.com/Microsoft/pict/blob/master/doc/pict.md)**
 
 The most recent **pict.exe** is available at http://www.pairwise.org/pict/win/pict.exe.
 
+[正交测试理论依据入门讲解及pict使用](https://my.oschina.net/u/4007037/blog/3078187)
+
 # Contributing
 
 PICT consists of the following projects:
